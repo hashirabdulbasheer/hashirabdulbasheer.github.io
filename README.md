@@ -1,2 +1,2 @@
-# hashirabdulbasheer.github.io
-The uxQuran website
+# uxquran.com
+The uxQuran main website source code
