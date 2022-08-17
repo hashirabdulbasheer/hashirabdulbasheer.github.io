@@ -7,7 +7,7 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
 "canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
 "canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
-"main.dart.js": "3271e112ebe8e3aa6f450c520f7fce39",
+"main.dart.js": "43f6843934f17c7cd093c3e564764aeb",
 "assets/AssetManifest.json": "07b4affca96683ebe41afb1dce9ee3cc",
 "assets/assets/fonts/KFGQPC_Uthmanic_Script_HAFS_Regular.otf": "43269f118299246de0cf264e04ae2680",
 "assets/assets/fonts/AlMushafQuran.ttf": "71d8e66dd1fb38467c987c8cdc0df5bc",
@@ -154,7 +154,7 @@ const RESOURCES = {
 "index.html": "2fc908ae86fd271af407ad808c70dae1",
 "/": "2fc908ae86fd271af407ad808c70dae1",
 "favicon.png": "62081e46aaeb5022dfff18ade7795a0e",
-"version.json": "dec6b60fed52c21e81c3b9f4cee71b34",
+"version.json": "d6021aae29d7c3add9323dd7cf65c70f",
 "manifest.json": "f7c92554154931fdda34a58f860ff76c",
 "icons/Icon-192.png": "6d629ecc0d4fd7d2f47a896cb6d6f77b",
 "icons/Icon-512.png": "ddf0523e008a304434e47b4958854417"
