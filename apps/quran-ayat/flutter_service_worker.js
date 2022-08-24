@@ -7,7 +7,7 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
 "canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
 "canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
-"main.dart.js": "a86eb3a46a203901ac136247e928e81b",
+"main.dart.js": "9aec641ca8a870e8ad60a108f3658410",
 "assets/AssetManifest.json": "ec740af2ae07c2277b42f7b6aeb7680a",
 "assets/assets/fonts/KFGQPC_Uthmanic_Script_HAFS_Regular.otf": "43269f118299246de0cf264e04ae2680",
 "assets/assets/fonts/Manjari-Regular.ttf": "43ce5b696c5f9d3e43df1318865e105c",
@@ -157,7 +157,7 @@ const RESOURCES = {
 "index.html": "2fc908ae86fd271af407ad808c70dae1",
 "/": "2fc908ae86fd271af407ad808c70dae1",
 "favicon.png": "62081e46aaeb5022dfff18ade7795a0e",
-"version.json": "93e44cb0fccc961473d1b750ca3b0a81",
+"version.json": "88ff652e85efb6e2614a4b976f47c9e7",
 "manifest.json": "f7c92554154931fdda34a58f860ff76c",
 "icons/Icon-192.png": "6d629ecc0d4fd7d2f47a896cb6d6f77b",
 "icons/Icon-512.png": "ddf0523e008a304434e47b4958854417"
