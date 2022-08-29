@@ -81453,7 +81453,7 @@ j4(a,b,c){return this.U7(a,b,c)},
 U7(a,b,c){var s=0,r=A.p(t.H3),q
 var $async$j4=A.l(function(d,e){if(d===1)return A.m(e,r)
 while(true)switch(s){case 0:s=3
-return A.r(A.aRs(A.lM("https://github.com/hashirabdulbasheer/my_assets/blob/master/audio/001002.mp3?raw=true")),$async$j4)
+return A.r(A.aRs(A.lM("https://uxquran.com/audio/001002.mp3")),$async$j4)
 case 3:q=e.w
 s=1
 break
@@ -81463,7 +81463,7 @@ A.aaA.prototype={
 uy(a,b){return this.Up(a,b)},
 Up(a,b){var s=0,r=A.p(t.IN),q,p=this,o,n
 var $async$uy=A.l(function(c,d){if(c===1)return A.m(d,r)
-while(true)switch(s){case 0:s=a===5&&b===5?3:4
+while(true)switch(s){case 0:s=a===6&&b===6?3:4
 break
 case 3:s=5
 return A.r(p.c.j4(a,b,"khalefa_al_tunaiji_64kbps"),$async$uy)
