@@ -7,7 +7,7 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
 "canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
 "canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
-"main.dart.js": "c4204be66a6843e4a8b8fc2795202d11",
+"main.dart.js": "f5df2894bf22090f96d23e3f183d7f6b",
 "assets/AssetManifest.json": "ec740af2ae07c2277b42f7b6aeb7680a",
 "assets/assets/fonts/KFGQPC_Uthmanic_Script_HAFS_Regular.otf": "43269f118299246de0cf264e04ae2680",
 "assets/assets/fonts/Manjari-Regular.ttf": "43ce5b696c5f9d3e43df1318865e105c",
