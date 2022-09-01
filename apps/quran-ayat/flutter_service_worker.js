@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
-"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
-"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
-"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
-"main.dart.js": "641a6bbea98272f6e5c98465a9d7c694",
+  "canvaskit/canvaskit.js": "b404b2ef26a75253c3c322c586112449",
+"canvaskit/profiling/canvaskit.js": "79bb5d744b0bec63ab46eddfd6b52546",
+"canvaskit/profiling/canvaskit.wasm": "5886b7db0562bf9d812900ab17ad2b1e",
+"canvaskit/canvaskit.wasm": "2abf88817938cca7761a56861f3cfd1a",
+"main.dart.js": "3e8612b71904bbe64ed556fcd6a2787e",
 "assets/AssetManifest.json": "ec740af2ae07c2277b42f7b6aeb7680a",
 "assets/assets/fonts/KFGQPC_Uthmanic_Script_HAFS_Regular.otf": "43269f118299246de0cf264e04ae2680",
 "assets/assets/fonts/Manjari-Regular.ttf": "43ce5b696c5f9d3e43df1318865e105c",
@@ -157,7 +157,7 @@ const RESOURCES = {
 "index.html": "2fc908ae86fd271af407ad808c70dae1",
 "/": "2fc908ae86fd271af407ad808c70dae1",
 "favicon.png": "62081e46aaeb5022dfff18ade7795a0e",
-"version.json": "3698836243ae8d6056d739bca221feb2",
+"version.json": "a5edcbdc77d2b8d1676cbc979946976a",
 "manifest.json": "f7c92554154931fdda34a58f860ff76c",
 "icons/Icon-192.png": "6d629ecc0d4fd7d2f47a896cb6d6f77b",
 "icons/Icon-512.png": "ddf0523e008a304434e47b4958854417"
