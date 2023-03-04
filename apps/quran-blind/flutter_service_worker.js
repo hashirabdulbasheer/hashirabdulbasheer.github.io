@@ -2,20 +2,20 @@
 const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
-const RESOURCES = {
-  "version.json": "8268c45fcfddf85ff5adeae6dbecf492",
+
+const RESOURCES = {"version.json": "7152c963b3a05b4483fc266f2e39f595",
 "favicon.ico": "6fa5c70b2a675d964e34803536a17a91",
-"index.html": "f843990f17a6915dcaa95f1556781bf5",
-"/": "f843990f17a6915dcaa95f1556781bf5",
-"main.dart.js": "1828623e3b8dbc73c070cb504a0a4e05",
-"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
+"index.html": "675793d621209a9885814abd592cabb9",
+"/": "675793d621209a9885814abd592cabb9",
+"main.dart.js": "fe137841ec7bfed94b08cc36ad32b924",
+"flutter.js": "6fef97aeca90b426343ba6c5c9dc5d4a",
 "icons/Icon-192.png": "d994dceb7c39f6ea6c5d4e2d9c5f0447",
 "icons/Icon-512.png": "35b582281dd0b5bae1bdc010fa30aa99",
 "manifest.json": "6d9de2f8778315d84c4a3896d8688eeb",
-"assets/AssetManifest.json": "9d592479240fe3278029d17736866edd",
-"assets/NOTICES": "7692d5356fd07d2e346ce292c795c0f8",
+"assets/AssetManifest.json": "f1e8e35dc26b69ddfae9b8eba510f869",
+"assets/NOTICES": "e6b8e04c8bb38054f92fb6384ca18be9",
 "assets/FontManifest.json": "560ab6b38cf2322ba3c5f83f15e9f3b6",
-"assets/packages/noble_quran/assets/quran-transliteration.json": "93c81ff73090533cad3dda9c55dc632e",
+"assets/packages/noble_quran/assets/quran-transliteration.json": "08ade0d482e30c0d29edbeb0f4027567",
 "assets/packages/noble_quran/assets/surahlist.json": "58d2d07ecb10f94be5afdff5709441c4",
 "assets/packages/noble_quran/assets/quran/103.json": "c8daf82cd71fd7bd1f74f06fd627f1ad",
 "assets/packages/noble_quran/assets/quran/20.json": "8c9dd71d4c1cd4db403a728edbf7a063",
@@ -131,36 +131,43 @@ const RESOURCES = {
 "assets/packages/noble_quran/assets/quran/62.json": "43463f7e3938f689e6143f7c61e182f1",
 "assets/packages/noble_quran/assets/quran/9.json": "e2ec2fae1b04d894534b21c5dd74ebd9",
 "assets/packages/noble_quran/assets/quran/35.json": "4e767a806da20a6279787d37a15cfb9d",
-"assets/packages/noble_quran/assets/quran-ar.json": "739afaf6cf56a91cc26980698c574161",
-"assets/packages/noble_quran/assets/translations/hilali.json": "c5b9f3c873ea1b0eff9c1a62071c95a2",
+"assets/packages/noble_quran/assets/quran-ar.json": "21dfe73c231a4b80f99733feee5a9288",
+"assets/packages/noble_quran/assets/reciters.json": "47ea987e541410829731604c75191e86",
+"assets/packages/noble_quran/assets/translations/hilali.json": "d498a8839b94c3ec5f8a0e44ee8d8681",
 "assets/packages/noble_quran/assets/translations/6.json": "dcb52f42cb76499d178fc1b29984a5cd",
 "assets/packages/noble_quran/assets/translations/7.json": "404f49660f684306115974ce8838310a",
 "assets/packages/noble_quran/assets/translations/10.json": "0b7cae0d8a25df4bb213a64cf5bbbede",
 "assets/packages/noble_quran/assets/translations/0.json": "d34449949f837cddb9d9fbd23c098d94",
+"assets/packages/noble_quran/assets/translations/clear.json": "d54fc47aeb2a8e011bfe225097513bee",
+"assets/packages/noble_quran/assets/translations/ml_abdulhameed.json": "386741ffac5208f86b55eea668b17f83",
+"assets/packages/noble_quran/assets/translations/ur_maududi.json": "146ace7af5dde9823f7f2e4a688a1b6c",
 "assets/packages/noble_quran/assets/translations/1.json": "c5bc45c120ba2aaa8493af923365c00e",
 "assets/packages/noble_quran/assets/translations/2.json": "1b587aff04c42e35c02902d0b6104ff3",
 "assets/packages/noble_quran/assets/translations/3.json": "f44734ddf22640332b62650776a9c1c2",
 "assets/packages/noble_quran/assets/translations/8.json": "b961fad3e0b9b1ff5ddaa4b76db18dda",
 "assets/packages/noble_quran/assets/translations/4.json": "73884327889a0b8a2e4ab04ffc879fce",
-"assets/packages/noble_quran/assets/translations/sahih.json": "096eae46c9dd2e88586e827a3cdf0230",
+"assets/packages/noble_quran/assets/translations/sahih.json": "6520ee979eef02309d3d17225fab2d03",
 "assets/packages/noble_quran/assets/translations/5.json": "d823a0f617b48a6d54f6ff892a942cdd",
+"assets/packages/noble_quran/assets/translations/ml_karakunnu.json": "3e9c57aec3dc466cafc93bece38e2810",
 "assets/packages/noble_quran/assets/translations/9.json": "bc66775d165f6c27f443851848aafb26",
-"assets/shaders/ink_sparkle.frag": "fed2b7f6a3ac9e57679b7af079c079e1",
-"assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
+"assets/shaders/ink_sparkle.frag": "57f2f020e63be0dd85efafc7b7b25d80",
+"assets/AssetManifest.bin": "d4eb2f84ec2b0c44d98e5b82ecedb683",
+"assets/fonts/MaterialIcons-Regular.otf": "9dbe0394f4bb8ba2095c755e2d5c4d21",
 "assets/assets/fonts/AlMushafQuran.ttf": "71d8e66dd1fb38467c987c8cdc0df5bc",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
-};
-
+"canvaskit/skwasm.js": "3dbd05be6db4a4154ce733ff194dcae7",
+"canvaskit/skwasm.wasm": "f767200511478d7f7052f2b536d82875",
+"canvaskit/chromium/canvaskit.js": "c5ff0f8767a7ea0962b15d1f1832002d",
+"canvaskit/chromium/canvaskit.wasm": "c6b1144d5baffbdd9482ee820dbd7dc9",
+"canvaskit/canvaskit.js": "3e7c7e90ff8e206f4023c12e31b0d058",
+"canvaskit/canvaskit.wasm": "296ba26fdb37b50c239d4ead66144d01",
+"canvaskit/skwasm.worker.js": "23be0fdafa5ddef67734292a576f8fe3"};
 // The application shell files that are downloaded before a service worker can
 // start.
-const CORE = [
-  "main.dart.js",
+const CORE = ["main.dart.js",
 "index.html",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
+
 // During install, the TEMP cache is populated with the application shell files.
 self.addEventListener("install", (event) => {
   self.skipWaiting();
@@ -171,7 +178,6 @@ self.addEventListener("install", (event) => {
     })
   );
 });
-
 // During activate, the cache is populated with the temp files downloaded in
 // install. If this service worker is upgrading from one with a saved
 // MANIFEST, then use this to retain unchanged resource files.
@@ -193,6 +199,8 @@ self.addEventListener("activate", function(event) {
         await caches.delete(TEMP);
         // Save the manifest to make future upgrades efficient.
         await manifestCache.put('manifest', new Response(JSON.stringify(RESOURCES)));
+        // Claim client to enable caching on first launch
+        self.clients.claim();
         return;
       }
       var oldManifest = await manifest.json();
@@ -218,6 +226,8 @@ self.addEventListener("activate", function(event) {
       await caches.delete(TEMP);
       // Save the manifest to make future upgrades efficient.
       await manifestCache.put('manifest', new Response(JSON.stringify(RESOURCES)));
+      // Claim client to enable caching on first launch
+      self.clients.claim();
       return;
     } catch (err) {
       // On an unhandled exception the state of the cache cannot be guaranteed.
@@ -228,7 +238,6 @@ self.addEventListener("activate", function(event) {
     }
   }());
 });
-
 // The fetch handler redirects requests for RESOURCE files to the service
 // worker cache.
 self.addEventListener("fetch", (event) => {
@@ -268,7 +277,6 @@ self.addEventListener("fetch", (event) => {
     })
   );
 });
-
 self.addEventListener('message', (event) => {
   // SkipWaiting can be used to immediately activate a waiting service worker.
   // This will also require a page refresh triggered by the main worker.
@@ -281,7 +289,6 @@ self.addEventListener('message', (event) => {
     return;
   }
 });
-
 // Download offline will check the RESOURCES for all files not in the cache
 // and populate them.
 async function downloadOffline() {
@@ -302,7 +309,6 @@ async function downloadOffline() {
   }
   return contentCache.addAll(resources);
 }
-
 // Attempt to download the resource online before falling back to
 // the offline cache.
 function onlineFirst(event) {
