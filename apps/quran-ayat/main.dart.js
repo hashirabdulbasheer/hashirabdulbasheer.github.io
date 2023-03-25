@@ -82965,7 +82965,7 @@ s.aJ()
 s.e.sfK(0,s.a.c.a)
 s.f.sfK(0,s.a.c.b)},
 H(a){var s=this,r=null,q=A.ox(r,r,B.Sn),p=a.J(t.w).f,o=A.lN(!0,B.aA,!1,r,B.p,A.ou(),s.e,r,r,r,2,B.pN,B.T,!0,r,!0,!s.d,!1,r,r,r,B.ho,r,r,1,r,r,!1,"\u2022",r,r,r,!1,r,r,B.by,r,r,B.aN,B.aF,r,r,r,r,r,B.af,r,B.bG,r,B.dj),n=A.lN(!0,B.aA,!1,r,B.p,A.ou(),s.f,r,r,r,2,B.iS,B.T,!0,r,!0,!1,!1,r,r,r,B.n_,r,r,1,r,r,!1,"\u2022",r,r,r,!1,r,r,B.by,r,r,B.aN,B.aF,r,r,r,r,B.QH,B.af,r,B.bG,r,B.dj),m=s.d?B.jG:B.zv,l=t.p
-return A.e3(A.qq(q,A.e3(A.P_(A.cU(A.db(A.a([o,B.bs,n,B.bs,B.eq,A.d2(A.a([A.dC(A.cU(A.iK(m,new A.ar3(s),r),50,r),1)],l),B.w,B.ce,B.B),B.eq,A.h8(B.Sw,new A.ar4(s,a),r)],l),B.w,B.bV,B.B),p.a.b,r),B.iy,B.a6),B.n),r,r,r),B.z)},
+return A.e3(A.qq(q,A.e3(A.P_(A.cU(A.db(A.a([o,B.bs,n,B.bs,B.eq,A.d2(A.a([A.dC(A.cU(A.iK(m,new A.ar3(s),r),50,r),1)],l),B.w,B.ce,B.B),B.eq,A.h8(B.Sv,new A.ar4(s,a),r)],l),B.w,B.bV,B.B),p.a.b,r),B.iy,B.a6),B.n),r,r,r),B.z)},
 wq(){var s=0,r=A.r(t.z),q=this,p,o,n,m,l
 var $async$wq=A.n(function(a,b){if(a===1)return A.o(b,r)
 while(true)switch(s){case 0:q.NF(!0)
@@ -83402,7 +83402,7 @@ A.azu(!0,new A.aqt(p),r,t.H)},
 abC(){var s,r,q,p=this,o=null,n={}
 n.a=null
 s=A.h8(B.Sz,new A.aqv(p),o)
-r=A.h8(B.Sv,new A.aqw(p),o)
+r=A.h8(B.Su,new A.aqw(p),o)
 n.a=A.ZF(A.a([s,A.h8(B.So,new A.aqx(p),o),r,A.h8(B.n4,new A.aqy(p),o)],t.p),o,o,o,o,o,o,o,o,B.j,B.Sk,o,o,B.f3,o,o,o)
 q=p.c
 q.toString
@@ -83496,7 +83496,7 @@ $0(){return A.aV([this.a.wf()],t.H)},
 $S:71}
 A.NK.prototype={
 H(a){var s=null
-return new A.K7(new A.da(A.X(a).fr,s,s,s,s,s,B.ax),A.bp(B.Ak,B.Su,B.j,s,s,s,s,s,s,s,s,s,s),s)}}
+return new A.K7(new A.da(A.X(a).fr,s,s,s,s,s,B.ax),A.bp(B.Ak,B.Sx,B.j,s,s,s,s,s,s,s,s,s,s),s)}}
 A.Be.prototype={
 H(a){var s=null,r=$.ak().afD(5,5,B.ev)
 return A.nF(B.bL,A.a([A.aKm(A.bp(s,s,B.j,s,s,new A.da(A.aG(B.d.bt(127.5),0,0,0),s,s,s,s,s,B.ax),s,s,s,s,s,s,s),r),A.a8z(new A.acI(this),this.c.length,B.a8,s,!1,new A.acJ(),!1)],t.p),B.p,B.cj)}}
@@ -90707,8 +90707,8 @@ B.NO=new A.cG(null,80,B.Cy,null)
 B.LH=new A.b1(B.az,B.NO,null)
 B.NM=new A.cG(null,100,B.ou,null)
 B.LI=new A.b1(B.az,B.NM,null)
-B.Sx=new A.bE("Loading audio ....",null,null,null,null,null,null,null,null,null)
-B.Ct=new A.hS(B.I,null,null,B.Sx,null)
+B.Sw=new A.bE("Loading audio ....",null,null,null,null,null,null,null,null,null)
+B.Ct=new A.hS(B.I,null,null,B.Sw,null)
 B.NT=new A.cG(null,80,B.Ct,null)
 B.LJ=new A.b1(B.az,B.NT,null)
 B.LK=new A.b1(B.az,B.hZ,null)
@@ -91325,10 +91325,10 @@ B.Sq=new A.bE("Sign Up",null,null,null,null,null,null,null,null,null)
 B.Sr=new A.bE("Add",null,null,null,null,null,null,null,null,null)
 B.Ss=new A.bE("Are you sure?",null,null,null,null,null,null,null,null,null)
 B.St=new A.bE("Do you want to bookmark this aya?",null,null,null,null,null,null,null,null,null)
+B.Su=new A.bE("Clear bookmark",null,B.eu,null,null,null,null,null,null,null)
+B.Sv=new A.bE("Sign Out",null,null,null,null,null,null,null,null,null)
 B.QZ=new A.y(!0,B.l,null,null,null,null,10,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Su=new A.bE("v2.1.8 uxQuran",null,B.QZ,null,null,null,null,null,null,null)
-B.Sv=new A.bE("Clear bookmark",null,B.eu,null,null,null,null,null,null,null)
-B.Sw=new A.bE("Sign Out",null,null,null,null,null,null,null,null,null)
+B.Sx=new A.bE("v2.3.3 uxQuran",null,B.QZ,null,null,null,null,null,null,null)
 B.Sz=new A.bE("Save bookmark",null,B.eu,null,null,null,null,null,null,null)
 B.SA=new A.bE("Quran",null,null,null,null,null,null,null,null,null)
 B.SB=new A.bE("Register",null,null,null,null,null,null,null,null,null)
