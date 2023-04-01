@@ -4,7 +4,7 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
-"main.dart.js": "248dc4969168c5b1d2fe841f7422f254",
+"main.dart.js": "cc476817f50c1ebc9c2f049e0f32d37d",
 "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
 "canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
@@ -157,7 +157,7 @@ const RESOURCES = {
 "assets/packages/noble_quran/assets/reciters.json": "47ea987e541410829731604c75191e86",
 "assets/packages/noble_quran/assets/quran-ar.json": "21dfe73c231a4b80f99733feee5a9288",
 "assets/FontManifest.json": "50a897e7b2484a9d58a0084e0c9bb74d",
-"assets/NOTICES": "c839e7aac8d62098bd6877ccd5256064",
+"assets/NOTICES": "0a28d7a1d5361b7d040e248836547e59",
 "index.html": "2fc908ae86fd271af407ad808c70dae1",
 "/": "2fc908ae86fd271af407ad808c70dae1",
 "icons/Icon-512.png": "ddf0523e008a304434e47b4958854417",
