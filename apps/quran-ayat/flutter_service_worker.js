@@ -160,7 +160,7 @@ const RESOURCES = {
 "version.json": "8039c6da8299e229312510667f07da37",
 "icons/Icon-192.png": "6d629ecc0d4fd7d2f47a896cb6d6f77b",
 "icons/Icon-512.png": "ddf0523e008a304434e47b4958854417",
-"main.dart.js": "198f424d9626e367223e28c4e40320a4",
+"main.dart.js": "8a1eaa4946a293cc33fbd0b98b0ef72c",
 "manifest.json": "f7c92554154931fdda34a58f860ff76c"
 };
 
