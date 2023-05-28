@@ -83072,20 +83072,17 @@ break
 case 1:return A.o(q,r)
 case 2:return A.n(o,r)}})
 return A.p($async$qF,r)},
-kk(){var s,r,q="[DEFAULT]",p=this.a
-if(p!=null)return p
-p=$.b1
-s=(p==null?$.b1=$.cw():p).cz(0,q)
-p=$.cD()
-A.bz(s,p,!0)
-r=A.pm(new A.c3(s))
-r=r.gdU(r)
-if(r!=null)r.dY(0)
-r=$.b1
-s=(r==null?$.b1=$.cw():r).cz(0,q)
-A.bz(s,p,!0)
-p=A.pm(new A.c3(s))
-return this.a=this.N9(p.gdU(p))},
+kk(){var s,r="[DEFAULT]",q=$.b1,p=(q==null?$.b1=$.cw():q).cz(0,r)
+q=$.cD()
+A.bz(p,q,!0)
+s=A.pm(new A.c3(p))
+s=s.gdU(s)
+if(s!=null)s.dY(0)
+s=$.b1
+p=(s==null?$.b1=$.cw():s).cz(0,r)
+A.bz(p,q,!0)
+q=A.pm(new A.c3(p))
+return this.a=this.N9(q.gdU(q))},
 zd(){var s=0,r=A.q(t.EG),q,p,o
 var $async$zd=A.m(function(a,b){if(a===1)return A.n(b,r)
 while(true)switch(s){case 0:p=$.b1
@@ -92278,7 +92275,7 @@ B.zv=new A.DI(1,"longestLine")
 B.Sx=new A.bD("OFFLINE",null,B.ex,B.hp,null,null,null,null,null,null,null)
 B.Sy=new A.bD("What would you like to do?",null,null,null,null,null,null,null,null,null,null)
 B.Rc=new A.y(!0,B.l,null,null,null,null,10,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Sz=new A.bD("v2.4.4 uxQuran",null,B.Rc,null,null,null,null,null,null,null,null)
+B.Sz=new A.bD("v2.4.5 uxQuran",null,B.Rc,null,null,null,null,null,null,null,null)
 B.SA=new A.bD("Register",null,null,null,null,null,null,null,null,null,null)
 B.SB=new A.bD("Add",null,null,null,null,null,null,null,null,null,null)
 B.SC=new A.bD("Save bookmark",null,B.ex,null,null,null,null,null,null,null,null)
