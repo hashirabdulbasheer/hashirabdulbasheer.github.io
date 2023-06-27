@@ -156,7 +156,7 @@ const RESOURCES = {
 "assets/packages/noble_quran/assets/surahlist.json": "58d2d07ecb10f94be5afdff5709441c4",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
-"main.dart.js": "3fa59d2e7f53d973d21ee198e63084fd",
+"main.dart.js": "0680197ca71749efedfa2c907dff5f51",
 "index.html": "2fc908ae86fd271af407ad808c70dae1",
 "/": "2fc908ae86fd271af407ad808c70dae1",
 "canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
