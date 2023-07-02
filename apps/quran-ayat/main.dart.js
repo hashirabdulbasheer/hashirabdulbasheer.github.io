@@ -27730,9 +27730,9 @@ return A.o($async$Fu,r)},
 aIg(a){var s=0,r=A.p(t.H),q
 var $async$aIg=A.l(function(b,c){if(b===1)return A.m(c,r)
 while(true)switch(s){case 0:q=a.a
-a.a=q==null?"$SENTRY_DSN":q
+a.a=q==null?"https://01f84856088c4aad8806ef513ad020ed@o4505112848039936.ingest.sentry.io/4505112849612800":q
 if(a.cx==null){a.k3.amQ(a.k2)
-a.cx="$SENTRY_ENVIRONMENT"}q=a.CW
+a.cx="release"}q=a.CW
 a.CW=q==null?null:q
 q=a.fx
 a.fx=q==null?null:q
