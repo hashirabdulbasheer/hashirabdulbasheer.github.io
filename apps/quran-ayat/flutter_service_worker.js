@@ -164,7 +164,7 @@ const RESOURCES = {"canvaskit/chromium/canvaskit.js": "96ae916cd2d1b7320fff853ee
 "icons/Icon-192.png": "6d629ecc0d4fd7d2f47a896cb6d6f77b",
 "index.html": "2fc908ae86fd271af407ad808c70dae1",
 "/": "2fc908ae86fd271af407ad808c70dae1",
-"main.dart.js": "bf028dd6bcff7d0aa6dd5fa0ba3d050b",
+"main.dart.js": "79f176cb4716c4dd161bb9e758fbad83",
 "flutter.js": "6fef97aeca90b426343ba6c5c9dc5d4a",
 "favicon.png": "62081e46aaeb5022dfff18ade7795a0e",
 "manifest.json": "f7c92554154931fdda34a58f860ff76c"};
