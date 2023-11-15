@@ -3,13 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter.js": "7a1d76a8729d1add7a6ce2a4b4db043f",
+const RESOURCES = {"flutter.js": "6fef97aeca90b426343ba6c5c9dc5d4a",
 "favicon.png": "ea44a087a4df3cb68844a1fb7d74167e",
 "icons/Icon-192.png": "a45d97279e902dd85a7219f905500b1b",
 "icons/Icon-512.png": "a3bbf0d568f48ce2a7fb694ddd98789b",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/AssetManifest.bin": "5ece8aa254c18c52c541e41c58397841",
-"assets/AssetManifest.bin.json": "c2dd3ff7df52223bfbc8dedb88137ca0",
 "assets/assets/input.json": "a79b84ea42b705d4bfbfadec82944945",
 "assets/assets/images/quran-ayat.png": "6d629ecc0d4fd7d2f47a896cb6d6f77b",
 "assets/assets/images/ayat-kursi-icon.png": "0dce0ea55972f9fd3b4e97ce78d372b8",
@@ -30,28 +29,25 @@ const RESOURCES = {"flutter.js": "7a1d76a8729d1add7a6ce2a4b4db043f",
 "assets/assets/images/scrolling-icon.png": "84f0fdbafd9b7cbc215df7b1f1dde39c",
 "assets/AssetManifest.json": "4a96da8f8ecbfe8b4828017dff20f250",
 "assets/fonts/MaterialIcons-Regular.otf": "32fce58e2acb9c420eab0fe7b828b761",
-"assets/NOTICES": "e03e4edea0aa70a4602d18ea06c7bdc3",
-"assets/shaders/ink_sparkle.frag": "4096b5150bac93c41cbc9b45276bd90f",
-"index.html": "457fb90c1da272474cb1641912724a1f",
-"/": "457fb90c1da272474cb1641912724a1f",
-"main.dart.js": "9aeb9d1e901f3d3bf8f69173b539edec",
+"assets/NOTICES": "ada1bef2b5ac06b426c054384e97684e",
+"assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
+"index.html": "afbfb94df736c95fd01f389738ce0d9c",
+"/": "afbfb94df736c95fd01f389738ce0d9c",
+"main.dart.js": "8ec483cb3407c09042e2c508fac32c12",
 "manifest.json": "b1d5272476618e9fed4078f08eff90eb",
 "version.json": "68452803ba148703ba435ead25a4023e",
-"canvaskit/skwasm.js": "411f776c9a5204d1e466141767f5a8fa",
-"canvaskit/chromium/canvaskit.wasm": "3db89e7af8caeb1dbcd1084fd2b57754",
-"canvaskit/chromium/canvaskit.js.symbols": "18fb854debda3017412f11aaf7dee165",
-"canvaskit/chromium/canvaskit.js": "bc979fce6b4b3cc75d54b0d162cafaa7",
-"canvaskit/canvaskit.wasm": "78d3e50e7aba9162913783444d96d62e",
-"canvaskit/skwasm.wasm": "56d7c4085bceec22a7d273c825955a77",
-"canvaskit/skwasm.js.symbols": "4fe06170b7d5152a9191cd7ffae38baa",
-"canvaskit/canvaskit.js.symbols": "9cb87df4b280285ab6b31116e6a678ca",
-"canvaskit/canvaskit.js": "321aa0c874f6112cabafc27a74a784b4",
-"canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03"};
+"canvaskit/skwasm.js": "95f16c6690f955a45b2317496983dbe9",
+"canvaskit/chromium/canvaskit.wasm": "be0e3b33510f5b7b0cc76cc4d3e50048",
+"canvaskit/chromium/canvaskit.js": "96ae916cd2d1b7320fff853ee22aebb0",
+"canvaskit/canvaskit.wasm": "42df12e09ecc0d5a4a34a69d7ee44314",
+"canvaskit/skwasm.wasm": "1a074e8452fe5e0d02b112e22cdcf455",
+"canvaskit/canvaskit.js": "bbf39143dfd758d8d847453b120c8ebb",
+"canvaskit/skwasm.worker.js": "51253d3321b11ddb8d73fa8aa87d3b15"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
 "index.html",
-"assets/AssetManifest.bin.json",
+"assets/AssetManifest.json",
 "assets/FontManifest.json"];
 
 // During install, the TEMP cache is populated with the application shell files.
