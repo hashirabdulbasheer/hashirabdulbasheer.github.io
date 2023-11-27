@@ -150,7 +150,7 @@ const RESOURCES = {"manifest.json": "f7c92554154931fdda34a58f860ff76c",
 "assets/packages/noble_quran/assets/quran/91.json": "d71c9f8317e49cdbd67872cdcbf7c670",
 "assets/packages/noble_quran/assets/quran/25.json": "7f4d6b912b9c8ce97044421b715438a0",
 "assets/packages/noble_quran/assets/quran/56.json": "5455aa37e690b3966e7720a941cd960a",
-"assets/NOTICES": "5189cf9612a253fa369779212edc9403",
+"assets/NOTICES": "19c052a7cd4e585b0afa75f05796840a",
 "assets/AssetManifest.json": "97fc45a9b8d3a31c068df74d6c647386",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
 "assets/assets/sounds/speech_to_text_cancel.m4r": "ddef79c7875e514ceaea1405abf3f3ab",
@@ -167,7 +167,7 @@ const RESOURCES = {"manifest.json": "f7c92554154931fdda34a58f860ff76c",
 "canvaskit/canvaskit.wasm": "42df12e09ecc0d5a4a34a69d7ee44314",
 "canvaskit/chromium/canvaskit.js": "96ae916cd2d1b7320fff853ee22aebb0",
 "canvaskit/chromium/canvaskit.wasm": "be0e3b33510f5b7b0cc76cc4d3e50048",
-"main.dart.js": "3a45d1c64de3252719227652ab4b74e6"};
+"main.dart.js": "f86ef4f229608dedcb4772c6678f67ec"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
