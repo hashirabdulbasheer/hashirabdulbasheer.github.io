@@ -167,7 +167,7 @@ const RESOURCES = {"manifest.json": "f7c92554154931fdda34a58f860ff76c",
 "canvaskit/canvaskit.wasm": "42df12e09ecc0d5a4a34a69d7ee44314",
 "canvaskit/chromium/canvaskit.js": "96ae916cd2d1b7320fff853ee22aebb0",
 "canvaskit/chromium/canvaskit.wasm": "be0e3b33510f5b7b0cc76cc4d3e50048",
-"main.dart.js": "f86ef4f229608dedcb4772c6678f67ec"};
+"main.dart.js": "9a7bd23320a61d0991532c1484914af0"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
