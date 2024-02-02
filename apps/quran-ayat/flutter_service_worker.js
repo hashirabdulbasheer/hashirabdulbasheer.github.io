@@ -186,7 +186,7 @@ const RESOURCES = {"assets/assets/sounds/speech_to_text_cancel.m4r": "ddef79c787
 "icons/Icon-192.png": "6d629ecc0d4fd7d2f47a896cb6d6f77b",
 "icons/Icon-512.png": "ddf0523e008a304434e47b4958854417",
 "favicon.png": "62081e46aaeb5022dfff18ade7795a0e",
-"main.dart.js": "457f670a3396a7d52888ceffde9d6dcd",
+"main.dart.js": "7c777bbe86f0b7f264523219e6b749fa",
 "flutter.js": "6fef97aeca90b426343ba6c5c9dc5d4a",
 "version.json": "a41005852d831496b190215c93d36b6b"};
 // The application shell files that are downloaded before a service worker can
