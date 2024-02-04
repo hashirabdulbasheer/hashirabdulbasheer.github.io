@@ -174,8 +174,8 @@ const RESOURCES = {"assets/assets/sounds/speech_to_text_cancel.m4r": "ddef79c787
 "assets/packages/social_login_buttons/lib/assets/apple-black-logo.png": "6ab19330b95a2d9ae68575e0660c37cc",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "manifest.json": "73cd99631c6f04ca179f77aec42524f6",
-"index.html": "a8d6151bf60c3d0d5f486c4d252aeabe",
-"/": "a8d6151bf60c3d0d5f486c4d252aeabe",
+"index.html": "bb082bf857161d85bf1dcdf43d890784",
+"/": "bb082bf857161d85bf1dcdf43d890784",
 "canvaskit/chromium/canvaskit.wasm": "be0e3b33510f5b7b0cc76cc4d3e50048",
 "canvaskit/chromium/canvaskit.js": "96ae916cd2d1b7320fff853ee22aebb0",
 "canvaskit/skwasm.wasm": "1a074e8452fe5e0d02b112e22cdcf455",
@@ -186,7 +186,7 @@ const RESOURCES = {"assets/assets/sounds/speech_to_text_cancel.m4r": "ddef79c787
 "icons/Icon-192.png": "6d629ecc0d4fd7d2f47a896cb6d6f77b",
 "icons/Icon-512.png": "ddf0523e008a304434e47b4958854417",
 "favicon.png": "62081e46aaeb5022dfff18ade7795a0e",
-"main.dart.js": "2f2a547715ef87dae8a426dd724bbbb1",
+"main.dart.js": "19c96e5fb9e411e45117245568a2eab6",
 "flutter.js": "6fef97aeca90b426343ba6c5c9dc5d4a",
 "version.json": "a41005852d831496b190215c93d36b6b"};
 // The application shell files that are downloaded before a service worker can
